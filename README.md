@@ -26,7 +26,6 @@ Posted here will be links to publically hosted versions of the following documen
 - Configuration Documentation,
 - and Design Schematics.
 
-### Magic Mirror Modules:
 
 | Module      | 
 | ------------- |
