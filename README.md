@@ -25,3 +25,12 @@ Posted here will be links to publically hosted versions of the following documen
 - User Documentation, 
 - Configuration Documentation,
 - and Design Schematics.
+
+### Magic Mirror Modules:
+
+| Module      | 
+| ------------- |
+| [Magic Mirror Remote](https://github.com/Jopyth/MMM-Remote-Control) |
+| [Keyboard for Touch Display]( https://github.com/lavolp3/MMM-Keyboard) | 
+| [Calendar EXT2](https://github.com/MMM-CalendarExt2/MMM-CalendarExtTimeline) | 
+|  More coming soon! |
