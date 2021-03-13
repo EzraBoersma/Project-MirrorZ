@@ -22,10 +22,10 @@ See our tasks and progress at:
 ### Documentation:
 Posted here will be links to publically hosted versions of the following documentation: 
 - PowerPoint,
-- User Documentation, 
+- [User Manual Documentation](https://docs.google.com/document/d/1OXCO7ZPfxI8_Euw8lwEroq_2wm1VUA61RfREPYSPfaQ/edit?usp=sharing), 
 - Configuration Documentation,
 - and Design Schematics.
-
+https://docs.google.com/document/d/1OXCO7ZPfxI8_Euw8lwEroq_2wm1VUA61RfREPYSPfaQ/edit?usp=sharing
 
 | Module      |  Instructions   | 
 | ------------- | ------------- |
