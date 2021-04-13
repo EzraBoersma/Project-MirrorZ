@@ -24,8 +24,8 @@ See our tasks and progress at:
 | Documentation   | 
 | ------------- |
 | [User Manual and Config Documentation](https://docs.google.com/document/d/1OXCO7ZPfxI8_Euw8lwEroq_2wm1VUA61RfREPYSPfaQ/edit?usp=sharing) |
-| PowerPoint  |
-| Design Schematics |
+| [PowerPoint](https://drive.google.com/file/d/1aGRl3s4oynNve4dzN5q0GGRPT6hF3Uyz/view?usp=sharing)|  |
+| Design Schematics(N/A) |
 
 #### At the moment, these manuals are not added into the final documentation, but are available on the github repository for each module.
 
