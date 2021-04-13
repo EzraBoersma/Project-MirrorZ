@@ -27,7 +27,7 @@ See our tasks and progress at:
 | PowerPoint  |
 | Design Schematics |
 
-#### At the moment, these manuals are not added into the final documentation, but are available on the github repositry for each module.
+#### At the moment, these manuals are not added into the final documentation, but are available on the github repository for each module.
 
 | Module      |  Instructions   | 
 | ------------- | ------------- |
