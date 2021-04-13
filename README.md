@@ -27,10 +27,14 @@ See our tasks and progress at:
 | PowerPoint  |
 | Design Schematics |
 
+# At the moment, these manuals are not added into the final documentation, but are available on the github repositry for each module.
 
 | Module      |  Instructions   | 
 | ------------- | ------------- |
 | [Magic Mirror Remote](https://github.com/Jopyth/MMM-Remote-Control) |   |
 | [Keyboard for Touch Display]( https://github.com/lavolp3/MMM-Keyboard) |    |
 | [Calendar EXT2](https://github.com/MMM-CalendarExt2/MMM-CalendarExtTimeline) |    |
+| [Daily Pokemon](https://github.com/NolanKingdon/MMM-DailyPokemon) |   |
+| [Cursor](https://github.com/evghenix/MMM-Cursor) |    |
+| [MP3Player](https://github.com/x3mEr/MMM-MP3Player) |    |
 |  More coming soon! |
