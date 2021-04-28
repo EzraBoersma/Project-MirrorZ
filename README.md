@@ -1,6 +1,10 @@
 # Project-MirrorZ
 
+![magicMIrror](https://user-images.githubusercontent.com/77692643/116477548-a16bea00-a831-11eb-9fe7-ec2be0bc9786.jpg)
+
+
 # Welcome to Project Mirror Z!
+**NOTICE:** This project no longer in development. However, if you have any questions, feel free to reach out to me.
 -----
 The Smart Mirror is designed with the purpose of providing a user-friendly technology interface that integrates with other smart devices found in the user's home - or even remotely.
 
